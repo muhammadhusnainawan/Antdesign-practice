@@ -1,0 +1,20 @@
+@import "~antd/dist/antd.css";
+.card__header {
+  margin-top: 13px;
+}
+.ant-card-cover {
+  display: flex;
+  background-color: #f5f5f5;
+  align-items: center;
+  justify-content: center;
+}
+.card__headerImg {
+  height: 200px;
+  width: 200px;
+}
+.card__icon {
+  display: flex;
+}
+.card__icon > p {
+  margin-bottom: 12px;
+}
